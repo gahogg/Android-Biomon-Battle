@@ -9,7 +9,7 @@ import static com.greg.android.biomoon.Globals.p1Damage;
 
 /**
  *
- * @author Niko
+ * @author Greg
  */
 abstract public class AbstractBiomon {
     
@@ -74,7 +74,6 @@ abstract public class AbstractBiomon {
         origDefense = def;
         origSpdefense = spdef;
         origSpeed = spd;
-       //lol this won't do ur mom xdddddddddddddddddddddddddddddddddddddddddddddddddd
         grounded = false;
         flinch = false;
         roosted =false;
